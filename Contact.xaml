@@ -11,8 +11,8 @@
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="37,34,0,0" TextWrapping="Wrap" Text="Sender" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="37,78,0,0" TextWrapping="Wrap" Text="Message" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="111,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="463"/>
-        <TextBox HorizontalAlignment="Left" Height="284" Margin="111,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="463"/>
+        <TextBox Margin="111,33,226,394" TextWrapping="Wrap"/>
+        <TextBox Margin="111,80,226,86" TextWrapping="Wrap"/>
 
     </Grid>
 </Page>
